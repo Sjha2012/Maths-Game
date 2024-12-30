@@ -47,7 +47,7 @@ Maths Game for Children is an interactive web-based game developed using **HTML*
 - Implement a leaderboard for tracking high scores.  
 - Allow players to restart or pause the game.
 
-### 📂 Project Setup  
-1. Clone this repository:  
-   git clone https://github.com/ManishKumarPatel07/mathsgame.git
+### 📂 Author  
+ [sweety kumari]()
+   
    
