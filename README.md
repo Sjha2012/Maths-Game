@@ -48,6 +48,6 @@ Maths Game for Children is an interactive web-based game developed using **HTML*
 - Allow players to restart or pause the game.
 
 ### 📂 Author  
- [sweety kumari]()
+ [sweety kumari](https://github.com/Sjha2012)
    
    
